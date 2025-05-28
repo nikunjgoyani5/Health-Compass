@@ -15,7 +15,7 @@ A code editor like VS Code (optional but recommended)
 📦 ZIP Files Overview
 
 ZIP File
-Short Landing Page UI
+Long Landing Page UI
 old-healthCompass-landingPage.zip
 
 📦 1. Extract the ZIP File
