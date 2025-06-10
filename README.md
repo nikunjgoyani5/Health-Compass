@@ -15,7 +15,6 @@ Frontend Framework: Flutter Web
 Flutter SDK Version: 3.32.
 State Management: Getx
 Architecture: Clean Architecture (Domain-driven, modular)
-Developer: Rohit Parmar (Sr. Flutter Developer, Logic Go Infotech LLP)
 
 Authentication & Backend
 The app integrates:
